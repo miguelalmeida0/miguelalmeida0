@@ -45,7 +45,7 @@ My strongest work tends to involve difficult interaction/state problems rather t
 
 ## Professional context
 
-I have built production frontend systems across product UI, design systems, testing and frontend architecture, including work on F24's Connectivity Hub. Employer/customer implementation details that are not public stay private; my public repositories focus on personal projects and transferable engineering decisions.
+I have built and led production frontend systems across product UI, design systems, testing and frontend architecture, including work on F24's Connectivity Hub. Employer/customer implementation details that are not public stay private; my public repositories focus on personal projects and transferable engineering decisions.
 
 ## Current focus
 
