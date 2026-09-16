@@ -1,55 +1,56 @@
-<p align="center">
-  <a href="https://github.com/miguelalmeida0">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=762&text=Hey%20there%2C%20I'm%20Miguel" alt="Hey there, I&#39;m Miguel" />
-  </a>
-</p>
+# Miguel Almeida
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=700&height=44&lines=I%20love%20to%20code%2C%20design%20and%20learn%20about%20AI%20%3A)" alt="Typing headlines" />
-</p>
+**Frontend engineer building ambitious interactive systems across voice, AI, operational data, native learning, and design tooling.**
 
-### 🚀 About Me
+I work at the intersection of **frontend engineering, product design, and applied AI**. I care about the part after the prototype: interaction state, accessibility, failure modes, performance, testing, privacy, and the details that make an interface feel deliberate.
 
-Frontend Software engineer addicted to build ui's as responsive as possible.
+**Portfolio:** [miguelalmeida.is-a.dev](https://miguelalmeida.is-a.dev) · **LinkedIn:** [miguelalmeida1](https://www.linkedin.com/in/miguelalmeida1/)
 
-🔭 &nbsp;I'm currently working on **a local-first multimodal AI camera agent that uses real-time visual perception, action recognition, and human-in-the-loop validation to turn physical movement into intelligent workflow progress.**
+## Selected work
 
-### 🛠️ Tech Stack
+| Project | What I am exploring |
+| --- | --- |
+| **[Flow](https://github.com/miguelalmeida0/flow)** | Voice-first personal computing: continuous conversation manipulating calendars, journals, people, plans and memories. |
+| **[VIGIA](https://github.com/miguelalmeida0/vigia-crisis)** | Full-stack crisis intelligence: PostGIS, maps, source provenance, operational data and resilient decision-support UI. |
+| **[Leu](https://github.com/miguelalmeida0/leu)** | Native iPhone PDF learning: local-first reading, explanations, active recall and source-linked understanding. |
+| **[Camera Harness](https://github.com/miguelalmeida0/camera-harness)** | Local-first multimodal interaction: camera signals → human-reviewed suggestions → replayable traces. |
+| **[Miguel Design OS](https://github.com/miguelalmeida0/miguel-design-os)** | A design-memory and QA system that makes visual judgment reusable by AI coding agents. |
+| **[Portfolio](https://github.com/miguelalmeida0/portfolio-new)** | SvelteKit editorial portfolio with typed case studies, visual QA, accessibility and production hardening. |
 
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
-  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-</p>
+## What I optimize for
 
-### 🔗 Connect With Me
+```text
+product interaction
+      +
+frontend architecture
+      +
+visual craft
+      +
+deep verification
+      ↓
+interfaces that still hold up after the demo
+```
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/miguelalmeida1/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
+My strongest work tends to involve difficult interaction/state problems rather than CRUD surfaces: voice loops, geospatial command interfaces, native document study, human-in-the-loop AI, design-system tooling, and test infrastructure for uncertain systems.
 
-### 📊 GitHub Stats
+## Engineering
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=miguelalmeida0&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
-</p>
+**Frontend:** TypeScript · JavaScript · React · Svelte · SvelteKit · Next.js · Tailwind CSS
 
-### 💭 Dev Quote
+**Product systems:** accessibility · responsive architecture · design tokens · interaction state · performance · Playwright
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-</p>
+**Backend / data:** Node.js · PostgreSQL · PostGIS · Supabase · REST APIs · Docker
+
+**Applied AI:** model-provider integration · structured outputs · local/on-device inference · human-in-the-loop interaction · provenance · evaluation
+
+## Professional context
+
+I have built production frontend systems across product UI, design systems, testing and frontend architecture, including work on F24's Connectivity Hub. Employer/customer implementation details that are not public stay private; my public repositories focus on personal projects and transferable engineering decisions.
+
+## Current focus
+
+I am pushing **Flow** into a portfolio-grade voice-first product while continuing to deepen VIGIA's operational intelligence and Leu's native learning experience.
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/miguelalmeida0">miguelalmeida0</a></i></p>
+
+Berlin, Germany · [Portfolio](https://miguelalmeida.is-a.dev) · [LinkedIn](https://www.linkedin.com/in/miguelalmeida1/)
