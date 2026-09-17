@@ -8,10 +8,6 @@ I build interaction-heavy products across voice, geospatial systems, native lear
 
 <sub>↗ External links leave GitHub.</sub>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/miguelalmeida0/flow/main/docs/readme/current/00-breathing-week.png" alt="Flow Breathing Week — voice-first calendar" width="100%">
-</p>
-
 ## Selected work
 
 ### Flow
