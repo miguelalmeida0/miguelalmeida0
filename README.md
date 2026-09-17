@@ -1,49 +1,53 @@
 # Miguel Almeida
 
-**Frontend engineer · Product interfaces · Berlin**
+**Frontend & Design Engineer · Berlin**
 
-I build interaction-heavy products with TypeScript, React, Svelte and native iOS tools. My work connects interface design with application state, accessibility, testing and server-side integration.
+I build interaction-heavy products where frontend architecture, product design, and applied AI meet.
 
 [Portfolio](https://miguelalmeida.is-a.dev) · [LinkedIn](https://www.linkedin.com/in/miguelalmeida1/)
 
 ## Selected work
 
-### [Portfolio](https://github.com/miguelalmeida0/portfolio-new)
+### Flow
 
-The website connecting my projects, implementation decisions and professional experience.
+Voice-first personal computing where conversation directly changes calendars, journals, people and memories.
 
-**SvelteKit · TypeScript · Playwright**
+**TypeScript · voice UI · interaction state · accessibility**
 
-### [Second Voice](https://github.com/miguelalmeida0/second-voice)
+[Live demo →](https://miguelalmeida0.github.io/flow/) · [Source →](https://github.com/miguelalmeida0/flow)
 
-An AI rewrite studio with author selection, mood controls and a protected server-side request flow.
+### VIGIA
 
-**React · Next.js · TypeScript**
+Portugal-first crisis intelligence with geospatial context, source provenance, facilities, roads and operator-readable decision support.
 
-### [Leu](https://github.com/miguelalmeida0/leu)
+**PostgreSQL · PostGIS · Node.js · geospatial UI**
 
-A native iPhone PDF study app connecting reading and recall to the source document.
+[Repository →](https://github.com/miguelalmeida0/vigia-crisis)
+
+### Leu
+
+Native iPhone study for PDFs: source-linked explanation, active recall, blind spots and reconstruction.
 
 **Swift · SwiftUI · PDFKit**
 
-### [Camera Harness](https://github.com/miguelalmeida0/camera-harness)
+[Repository →](https://github.com/miguelalmeida0/leu)
 
-Local camera interaction, human-reviewed suggestions and replayable traces.
+### Second Voice
 
-**JavaScript · Browser interaction · Testing**
+AI rewriting with author-inspired voices, explicit provider routing, privacy-aware sharing and hardened request boundaries.
 
-### [Miguel Design OS](https://github.com/miguelalmeida0/miguel-design-os)
+**Next.js · React · TypeScript · Supabase**
 
-Design guidelines, reference libraries and review workflows for frontend development.
+[Live →](https://secondvoice-ai.vercel.app/second-voice) · [Repository →](https://github.com/miguelalmeida0/second-voice)
 
-**Design systems · Developer tooling**
+## More systems
 
-## In development
+- [Camera Harness](https://github.com/miguelalmeida0/camera-harness) — multimodal interaction, reviewable suggestions and replayable traces
+- [Miguel Design OS](https://github.com/miguelalmeida0/miguel-design-os) — design memory and visual QA for AI-assisted frontend work
+- [Portfolio](https://github.com/miguelalmeida0/portfolio) — the editorial layer connecting current work, decisions and proof
 
-**Flow** — Voice-first calendar, journal and everyday planning. Public source is not yet available.
+## Engineering signature
 
-**VIGIA** — Portugal-first crisis intelligence with geospatial and facility context. Source is not public.
+TypeScript · React · Svelte · SwiftUI · Node.js · PostgreSQL · PostGIS · accessibility · performance · Playwright · human-in-the-loop AI
 
-## How I work
-
-Clear interaction states, accessible controls, useful error recovery and tests that check what the user can actually do.
+I care about the part after the prototype: interaction state, error recovery, accessible controls, responsive behavior, security boundaries, source provenance and tests that prove the interface actually works.
