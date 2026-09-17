@@ -4,11 +4,17 @@
 
 I build interaction-heavy products across voice, geospatial systems, native learning, and AI-assisted interfaces.
 
-[Portfolio ↗](https://miguelalmeida.is-a.dev) · [LinkedIn ↗](https://www.linkedin.com/in/miguelalmeida1/)
-
-<sub>↗ External links leave GitHub.</sub>
+[Portfolio ↗](https://miguelalmeida.is-a.dev) *(external — leaves GitHub)* · [LinkedIn ↗](https://www.linkedin.com/in/miguelalmeida1/) *(external — leaves GitHub)*
 
 ## Selected work
+
+### Second Voice
+
+AI rewriting with explicit provider routing, privacy-aware sharing, abuse protection, and hardened request boundaries.
+
+**Next.js · React · TypeScript · Supabase**
+
+[Code](https://github.com/miguelalmeida0/second-voice) · [Live demo ↗](https://secondvoice-ai.vercel.app/second-voice) *(external — leaves GitHub)*
 
 ### Flow
 
@@ -16,15 +22,7 @@ Voice-first personal computing where conversation directly changes calendars, jo
 
 **TypeScript · React · voice UI · interaction architecture · accessibility**
 
-[Code](https://github.com/miguelalmeida0/flow) · [Live demo ↗](https://miguelalmeida0.github.io/flow/)
-
-### VIGIA
-
-Portugal-first crisis intelligence connecting incidents, facilities, roads, source provenance, and geospatial context.
-
-**PostgreSQL · PostGIS · Node.js · geospatial interfaces**
-
-[Code](https://github.com/miguelalmeida0/vigia-crisis) · [Live demo ↗](https://vigia-portfolio-demo.onrender.com)
+[Code](https://github.com/miguelalmeida0/flow) · [Live demo ↗](https://miguelalmeida0.github.io/flow/) *(external — leaves GitHub)*
 
 ### Leu
 
@@ -34,13 +32,13 @@ Native iPhone study for PDFs with source-linked explanation, active recall, blin
 
 [Code](https://github.com/miguelalmeida0/leu)
 
-### Second Voice
+### VIGIA
 
-AI rewriting with explicit provider routing, privacy-aware sharing, abuse protection, and hardened request boundaries.
+Portugal-first crisis intelligence connecting incidents, facilities, roads, source provenance, and geospatial context.
 
-**Next.js · React · TypeScript · Supabase**
+**PostgreSQL · PostGIS · Node.js · geospatial interfaces**
 
-[Code](https://github.com/miguelalmeida0/second-voice) · [Live demo ↗](https://secondvoice-ai.vercel.app/second-voice)
+[Code](https://github.com/miguelalmeida0/vigia-crisis)
 
 ## More systems
 
