@@ -1,53 +1,59 @@
 # Miguel Almeida
 
-**Frontend & Design Engineer · Berlin**
+**Frontend & Design Engineer · AI product interfaces · Berlin**
 
-I build interaction-heavy products where frontend architecture, product design, and applied AI meet.
+I build interaction-heavy products across voice, geospatial systems, native learning, and AI-assisted interfaces.
 
-[Portfolio project](https://github.com/miguelalmeida0/portfolio) · [Live portfolio ↗](https://miguelalmeida.is-a.dev) *(external — leaves GitHub)* · [LinkedIn](https://www.linkedin.com/in/miguelalmeida1/)
+[Portfolio ↗](https://miguelalmeida.is-a.dev) · [LinkedIn ↗](https://www.linkedin.com/in/miguelalmeida1/)
+
+<sub>↗ External links leave GitHub.</sub>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/miguelalmeida0/flow/main/docs/readme/current/00-breathing-week.png" alt="Flow Breathing Week — voice-first calendar" width="100%">
+</p>
 
 ## Selected work
 
 ### Flow
 
-Voice-first personal computing where conversation directly changes calendars, journals, people and memories.
+Voice-first personal computing where conversation directly changes calendars, journals, people, and memories.
 
-**TypeScript · voice UI · interaction state · accessibility**
+**TypeScript · React · voice UI · interaction architecture · accessibility**
 
-[Project →](https://github.com/miguelalmeida0/flow) · [Production deployment →](https://github.com/miguelalmeida0/flow/deployments) · [Live app ↗](https://miguelalmeida0.github.io/flow/) *(external — leaves GitHub)*
+[Code](https://github.com/miguelalmeida0/flow) · [Live demo ↗](https://miguelalmeida0.github.io/flow/)
 
 ### VIGIA
 
-Portugal-first crisis intelligence with geospatial context, source provenance, facilities, roads and operator-readable decision support.
+Portugal-first crisis intelligence connecting incidents, facilities, roads, source provenance, and geospatial context.
 
-**PostgreSQL · PostGIS · Node.js · geospatial UI**
+**PostgreSQL · PostGIS · Node.js · geospatial interfaces**
 
-[Repository →](https://github.com/miguelalmeida0/vigia-crisis)
+[Code](https://github.com/miguelalmeida0/vigia-crisis) · [Live demo ↗](https://vigia-portfolio-demo.onrender.com)
 
 ### Leu
 
-Native iPhone study for PDFs: source-linked explanation, active recall, blind spots and reconstruction.
+Native iPhone study for PDFs with source-linked explanation, active recall, blind spots, and reconstruction.
 
-**Swift · SwiftUI · PDFKit**
+**Swift · SwiftUI · PDFKit · local-first**
 
-[Repository →](https://github.com/miguelalmeida0/leu)
+[Code](https://github.com/miguelalmeida0/leu)
 
 ### Second Voice
 
-AI rewriting with author-inspired voices, explicit provider routing, privacy-aware sharing and hardened request boundaries.
+AI rewriting with explicit provider routing, privacy-aware sharing, abuse protection, and hardened request boundaries.
 
 **Next.js · React · TypeScript · Supabase**
 
-[Project →](https://github.com/miguelalmeida0/second-voice) · [Production deployment →](https://github.com/miguelalmeida0/second-voice/deployments) · [Live app ↗](https://secondvoice-ai.vercel.app/second-voice) *(external — leaves GitHub)*
+[Code](https://github.com/miguelalmeida0/second-voice) · [Live demo ↗](https://secondvoice-ai.vercel.app/second-voice)
 
 ## More systems
 
-- [Camera Harness](https://github.com/miguelalmeida0/camera-harness) — multimodal interaction, reviewable suggestions and replayable traces
-- [Miguel Design OS](https://github.com/miguelalmeida0/miguel-design-os) — design memory and visual QA for AI-assisted frontend work
-- [Portfolio](https://github.com/miguelalmeida0/portfolio) — the editorial layer connecting current work, decisions and proof
+[Camera Harness](https://github.com/miguelalmeida0/camera-harness) — human-reviewed multimodal suggestions with replayable traces.
+
+[Miguel Design OS](https://github.com/miguelalmeida0/miguel-design-os) — design memory and visual QA for AI-assisted frontend work.
 
 ## Engineering signature
 
-TypeScript · React · Svelte · SwiftUI · Node.js · PostgreSQL · PostGIS · accessibility · performance · Playwright · human-in-the-loop AI
+**TypeScript · React / Svelte · SwiftUI · Node.js · PostgreSQL / PostGIS · Playwright**
 
-I care about the part after the prototype: interaction state, error recovery, accessible controls, responsive behavior, security boundaries, source provenance and tests that prove the interface actually works.
+I ship the hard parts after the prototype: interaction state, recovery, accessibility, performance, security boundaries, and end-to-end verification.
