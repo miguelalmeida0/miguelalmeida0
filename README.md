@@ -1,18 +1,10 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/profile/hero-light.svg">
-  <img alt="Miguel Almeida — Frontend & Design Engineer, AI product interfaces, Berlin" src="./assets/profile/hero-light.svg" width="100%">
-</picture>
+# Miguel Almeida
+
+**Frontend & Design Engineer · AI product interfaces · Berlin**
 
 I build interaction-heavy products across voice, geospatial systems, native learning, and AI-assisted interfaces.
 
 [Portfolio ↗](https://miguelalmeida.is-a.dev) *(external — leaves GitHub)* · [LinkedIn ↗](https://www.linkedin.com/in/miguelalmeida1/) *(external — leaves GitHub)*
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/activity-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/profile/activity-light.svg">
-  <img alt="Miguel Almeida — 52-week GitHub activity" src="./assets/profile/activity-light.svg" width="100%">
-</picture>
 
 ## Selected work
 
