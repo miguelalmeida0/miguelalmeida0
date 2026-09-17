@@ -1,56 +1,49 @@
 # Miguel Almeida
 
-**Frontend engineer building ambitious interactive systems across voice, AI, operational data, native learning, and design tooling.**
+**Frontend engineer · Product interfaces · Berlin**
 
-I work at the intersection of **frontend engineering, product design, and applied AI**. I care about the part after the prototype: interaction state, accessibility, failure modes, performance, testing, privacy, and the details that make an interface feel deliberate.
+I build interaction-heavy products with TypeScript, React, Svelte and native iOS tools. My work connects interface design with application state, accessibility, testing and server-side integration.
 
-**Portfolio:** [miguelalmeida.is-a.dev](https://miguelalmeida.is-a.dev) · **LinkedIn:** [miguelalmeida1](https://www.linkedin.com/in/miguelalmeida1/)
+[Portfolio](https://miguelalmeida.is-a.dev) · [LinkedIn](https://www.linkedin.com/in/miguelalmeida1/)
 
 ## Selected work
 
-| Project | What I am exploring |
-| --- | --- |
-| **[Flow](https://github.com/miguelalmeida0/flow)** | Voice-first personal computing: continuous conversation manipulating calendars, journals, people, plans and memories. |
-| **[VIGIA](https://github.com/miguelalmeida0/vigia-crisis)** | Full-stack crisis intelligence: PostGIS, maps, source provenance, operational data and resilient decision-support UI. |
-| **[Leu](https://github.com/miguelalmeida0/leu)** | Native iPhone PDF learning: local-first reading, explanations, active recall and source-linked understanding. |
-| **[Camera Harness](https://github.com/miguelalmeida0/camera-harness)** | Local-first multimodal interaction: camera signals → human-reviewed suggestions → replayable traces. |
-| **[Miguel Design OS](https://github.com/miguelalmeida0/miguel-design-os)** | A design-memory and QA system that makes visual judgment reusable by AI coding agents. |
-| **[Portfolio](https://github.com/miguelalmeida0/portfolio-new)** | SvelteKit editorial portfolio with typed case studies, visual QA, accessibility and production hardening. |
+### [Portfolio](https://github.com/miguelalmeida0/portfolio-new)
 
-## What I optimize for
+The website connecting my projects, implementation decisions and professional experience.
 
-```text
-product interaction
-      +
-frontend architecture
-      +
-visual craft
-      +
-deep verification
-      ↓
-interfaces that still hold up after the demo
-```
+**SvelteKit · TypeScript · Playwright**
 
-My strongest work tends to involve difficult interaction/state problems rather than CRUD surfaces: voice loops, geospatial command interfaces, native document study, human-in-the-loop AI, design-system tooling, and test infrastructure for uncertain systems.
+### [Second Voice](https://github.com/miguelalmeida0/second-voice)
 
-## Engineering
+An AI rewrite studio with author selection, mood controls and a protected server-side request flow.
 
-**Frontend:** TypeScript · JavaScript · React · Svelte · SvelteKit · Next.js · Tailwind CSS
+**React · Next.js · TypeScript**
 
-**Product systems:** accessibility · responsive architecture · design tokens · interaction state · performance · Playwright
+### [Leu](https://github.com/miguelalmeida0/leu)
 
-**Backend / data:** Node.js · PostgreSQL · PostGIS · Supabase · REST APIs · Docker
+A native iPhone PDF study app connecting reading and recall to the source document.
 
-**Applied AI:** model-provider integration · structured outputs · local/on-device inference · human-in-the-loop interaction · provenance · evaluation
+**Swift · SwiftUI · PDFKit**
 
-## Professional context
+### [Camera Harness](https://github.com/miguelalmeida0/camera-harness)
 
-I have built and led production frontend systems across product UI, design systems, testing and frontend architecture, including work on F24's Connectivity Hub. Employer/customer implementation details that are not public stay private; my public repositories focus on personal projects and transferable engineering decisions.
+Local camera interaction, human-reviewed suggestions and replayable traces.
 
-## Current focus
+**JavaScript · Browser interaction · Testing**
 
-I am pushing **Flow** into a portfolio-grade voice-first product while continuing to deepen VIGIA's operational intelligence and Leu's native learning experience.
+### [Miguel Design OS](https://github.com/miguelalmeida0/miguel-design-os)
 
----
+Design guidelines, reference libraries and review workflows for frontend development.
 
-Berlin, Germany · [Portfolio](https://miguelalmeida.is-a.dev) · [LinkedIn](https://www.linkedin.com/in/miguelalmeida1/)
+**Design systems · Developer tooling**
+
+## In development
+
+**Flow** — Voice-first calendar, journal and everyday planning. Public source is not yet available.
+
+**VIGIA** — Portugal-first crisis intelligence with geospatial and facility context. Source is not public.
+
+## How I work
+
+Clear interaction states, accessible controls, useful error recovery and tests that check what the user can actually do.
