@@ -4,7 +4,7 @@
 
 I build interaction-heavy products where frontend architecture, product design, and applied AI meet.
 
-[Portfolio project](https://github.com/miguelalmeida0/portfolio) · [LinkedIn](https://www.linkedin.com/in/miguelalmeida1/)
+[Portfolio project](https://github.com/miguelalmeida0/portfolio) · [Live portfolio ↗](https://miguelalmeida.is-a.dev) *(external — leaves GitHub)* · [LinkedIn](https://www.linkedin.com/in/miguelalmeida1/)
 
 ## Selected work
 
@@ -14,7 +14,7 @@ Voice-first personal computing where conversation directly changes calendars, jo
 
 **TypeScript · voice UI · interaction state · accessibility**
 
-[Project →](https://github.com/miguelalmeida0/flow) · [Production deployment →](https://github.com/miguelalmeida0/flow/deployments)
+[Project →](https://github.com/miguelalmeida0/flow) · [Production deployment →](https://github.com/miguelalmeida0/flow/deployments) · [Live app ↗](https://miguelalmeida0.github.io/flow/) *(external — leaves GitHub)*
 
 ### VIGIA
 
@@ -38,7 +38,7 @@ AI rewriting with author-inspired voices, explicit provider routing, privacy-awa
 
 **Next.js · React · TypeScript · Supabase**
 
-[Project →](https://github.com/miguelalmeida0/second-voice) · [Production deployment →](https://github.com/miguelalmeida0/second-voice/deployments)
+[Project →](https://github.com/miguelalmeida0/second-voice) · [Production deployment →](https://github.com/miguelalmeida0/second-voice/deployments) · [Live app ↗](https://secondvoice-ai.vercel.app/second-voice) *(external — leaves GitHub)*
 
 ## More systems
 
