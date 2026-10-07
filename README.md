@@ -8,13 +8,15 @@ I build interaction-heavy products where product design, frontend architecture, 
 
 ## Selected work
 
+<sub>GitHub stays primary: **Code** links stay here · **Live app ↗** opens the external product. Use <kbd>⌘</kbd>/<kbd>Ctrl</kbd> + click on a live app to keep this profile open.</sub>
+
 ### 01 — Needle
 
 A visual semantic search engine for exploring **10,000 artworks from The Metropolitan Museum of Art**, combining a prepared HNSW graph, field-weighted museum metadata, lexical retrieval, and browser-worker search.
 
 **HNSW · semantic retrieval · Web Workers · Node.js**
 
-[Code](https://github.com/miguelalmeida0/needle-portfolio-release) · **[Live app ↗](https://needle.miguelalmeida.xyz/)**
+**[Code](https://github.com/miguelalmeida0/needle-portfolio-release)** · [Live app ↗](https://needle.miguelalmeida.xyz/)
 
 ### 02 — Second Voice AI
 
@@ -22,7 +24,7 @@ AI rewriting built around deliberate voice, outcome-based transformations, priva
 
 **Next.js · React · TypeScript · Supabase**
 
-[Code](https://github.com/miguelalmeida0/second-voice) · [Live app ↗](https://secondvoice-ai.vercel.app/second-voice)
+**[Code](https://github.com/miguelalmeida0/second-voice)** · [Live app ↗](https://secondvoice-ai.vercel.app/second-voice)
 
 ### 03 — Leu
 
@@ -30,7 +32,7 @@ A native iPhone PDF study experience that keeps the learning loop inside the doc
 
 **Swift · SwiftUI · PDFKit · local-first**
 
-[Code](https://github.com/miguelalmeida0/leu) · [Live app ↗](https://leu-desktop.vercel.app/)
+**[Code](https://github.com/miguelalmeida0/leu)** · [Live app ↗](https://leu-desktop.vercel.app/)
 
 ### 04 — Flow
 
@@ -38,7 +40,7 @@ Voice-first personal computing where conversation can directly change calendars,
 
 **TypeScript · React · voice UI · interaction architecture · accessibility**
 
-[Code](https://github.com/miguelalmeida0/flow) · [Live app ↗](https://miguelalmeida0.github.io/flow/)
+**[Code](https://github.com/miguelalmeida0/flow)** · [Live app ↗](https://miguelalmeida0.github.io/flow/)
 
 ### 05 — VIGIA
 
@@ -46,7 +48,7 @@ Portugal-first crisis intelligence that connects incidents, physical observation
 
 **PostgreSQL · PostGIS · Node.js · geospatial interfaces**
 
-[Code](https://github.com/miguelalmeida0/vigia-crisis)
+**[Code](https://github.com/miguelalmeida0/vigia-crisis)**
 
 ## Engineering
 
