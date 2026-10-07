@@ -2,52 +2,54 @@
 
 **Frontend & Design Engineer · AI product interfaces · Berlin**
 
-I build interaction-heavy products across voice, geospatial systems, native learning, and AI-assisted interfaces.
+I build interaction-heavy products where product design, frontend architecture, AI systems, and rigorous engineering meet.
 
-[Portfolio ↗](https://miguelalmeida.is-a.dev) *(external — leaves GitHub)* · [LinkedIn ↗](https://www.linkedin.com/in/miguelalmeida1/) *(external — leaves GitHub)*
+[Portfolio ↗](https://miguelalmeida.is-a.dev) · [LinkedIn ↗](https://www.linkedin.com/in/miguelalmeida1/)
 
 ## Selected work
 
-### Second Voice
+### 01 — Needle
 
-AI rewriting with explicit provider routing, privacy-aware sharing, abuse protection, and hardened request boundaries.
+A visual semantic search engine for exploring **10,000 artworks from The Metropolitan Museum of Art**, combining a prepared HNSW graph, field-weighted museum metadata, lexical retrieval, and browser-worker search.
+
+**HNSW · semantic retrieval · Web Workers · Node.js**
+
+[Code](https://github.com/miguelalmeida0/needle-portfolio-release) · **[Live app ↗](https://needle.miguelalmeida.xyz/)**
+
+### 02 — Second Voice AI
+
+AI rewriting built around deliberate voice, outcome-based transformations, privacy-aware sharing, provider boundaries, and hardened request flows.
 
 **Next.js · React · TypeScript · Supabase**
 
-[Code](https://github.com/miguelalmeida0/second-voice) · [Live demo ↗](https://secondvoice-ai.vercel.app/second-voice) *(external — leaves GitHub)*
+[Code](https://github.com/miguelalmeida0/second-voice) · [Live app ↗](https://secondvoice-ai.vercel.app/second-voice)
 
-### Flow
+### 03 — Leu
 
-Voice-first personal computing where conversation directly changes calendars, journals, people, and memories.
-
-**TypeScript · React · voice UI · interaction architecture · accessibility**
-
-[Code](https://github.com/miguelalmeida0/flow) · [Live demo ↗](https://miguelalmeida0.github.io/flow/) *(external — leaves GitHub)*
-
-### Leu
-
-Native iPhone study for PDFs with source-linked explanation, active recall, blind spots, and reconstruction.
+A native iPhone PDF study experience that keeps the learning loop inside the document: understand difficult passages, practice active recall, surface blind spots, and reconstruct ideas from memory.
 
 **Swift · SwiftUI · PDFKit · local-first**
 
 [Code](https://github.com/miguelalmeida0/leu)
 
-### VIGIA
+### 04 — Flow
 
-Portugal-first crisis intelligence connecting incidents, facilities, roads, source provenance, and geospatial context.
+Voice-first personal computing where conversation can directly change calendars, journals, people, memories, and other everyday state.
+
+**TypeScript · React · voice UI · interaction architecture · accessibility**
+
+[Code](https://github.com/miguelalmeida0/flow) · [Live app ↗](https://miguelalmeida0.github.io/flow/)
+
+### 05 — VIGIA
+
+Portugal-first crisis intelligence that connects incidents, physical observations, official reports, roads, facilities, source provenance, and geospatial context without flattening uncertainty.
 
 **PostgreSQL · PostGIS · Node.js · geospatial interfaces**
 
 [Code](https://github.com/miguelalmeida0/vigia-crisis)
 
-## More systems
-
-[Camera Harness](https://github.com/miguelalmeida0/camera-harness) — human-reviewed multimodal suggestions with replayable traces.
-
-[Miguel Design OS](https://github.com/miguelalmeida0/miguel-design-os) — design memory and visual QA for AI-assisted frontend work.
-
-## Engineering signature
+## Engineering
 
 **TypeScript · React / Svelte · SwiftUI · Node.js · PostgreSQL / PostGIS · Playwright**
 
-I ship the hard parts after the prototype: interaction state, recovery, accessibility, performance, security boundaries, and end-to-end verification.
+I focus on the parts that make ambitious interfaces hold up in the real world: interaction state, architecture, accessibility, performance, security boundaries, recovery paths, and end-to-end verification.
