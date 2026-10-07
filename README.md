@@ -30,7 +30,7 @@ A native iPhone PDF study experience that keeps the learning loop inside the doc
 
 **Swift · SwiftUI · PDFKit · local-first**
 
-[Code](https://github.com/miguelalmeida0/leu)
+[Code](https://github.com/miguelalmeida0/leu) · [Live app ↗](https://leu-desktop.vercel.app/)
 
 ### 04 — Flow
 
