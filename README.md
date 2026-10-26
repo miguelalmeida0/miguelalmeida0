@@ -34,7 +34,15 @@ A native iPhone PDF study experience that keeps the learning loop inside the doc
 
 **[Code](https://github.com/miguelalmeida0/leu)** · [Live app ↗](https://leu-desktop.vercel.app/)
 
-### 04 — Flow
+### 04 — Bollard
+
+An AI-assisted steel procurement workbench that connects supplier pricing, contract terms and supply risk to evidence-backed recommendations and buyer-reviewed decisions. Shared calculation models, append-only approvals and durable AI quotas keep the interface and agent grounded in the same workflow.
+
+**Next.js · React · TypeScript · PostgreSQL / Supabase · Python · bounded AI agents**
+
+**[Engineering README](https://github.com/miguelalmeida0/miguelalmeida0/blob/main/projects/bollard/README.md)** · [Live app ↗](https://bollard-nine.vercel.app/today)
+
+### 05 — Flow
 
 Voice-first personal computing where conversation can directly change calendars, journals, people, memories, and other everyday state.
 
@@ -42,7 +50,7 @@ Voice-first personal computing where conversation can directly change calendars,
 
 **[Code](https://github.com/miguelalmeida0/flow)** · [Live app ↗](https://miguelalmeida0.github.io/flow/)
 
-### 05 — VIGIA
+### 06 — VIGIA
 
 Portugal-first crisis intelligence that connects incidents, physical observations, official reports, roads, facilities, source provenance, and geospatial context without flattening uncertainty.
 
