@@ -1,6 +1,6 @@
 # Miguel Almeida
 
-**Frontend & Design Engineer · AI product interfaces · Berlin**
+**Frontend & Product Engineer · AI product interfaces · Berlin**
 
 I build interaction-heavy products where product design, frontend architecture, AI systems, and rigorous engineering meet.
 
